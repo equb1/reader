@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "platforms": {
+    "ios": {
+      "downloadUrl": "https://equb1.github.io/reader/custom_ota.jsbundle"
+    },
+    "android": {
+      "downloadUrl": "https://equb1.github.io/reader/custom_ota.android.bundle"
+    }
+  },
+  "downloadUrl": "https://equb1.github.io/reader/custom_ota.[platform].bundle"
+}
